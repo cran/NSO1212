@@ -1,0 +1,17 @@
+32b27eb2d5c893029beb02739603b62f *DESCRIPTION
+11c79e04ed1807fd94cff87dfd5b71a8 *NAMESPACE
+667d1150f1fe5507b55053688e077435 *NEWS.md
+f3bce0b64c6928a3216c08438b34be24 *R/NSO1212-package.r
+6ab80fd76aecfd90f9b8c29bf2b9999c *R/all_tables.R
+22a4a4a478b2008339adb1bedb83cf9d *R/get_sector_info.R
+4c20dc617e00b6faa355d6b3811d779b *R/get_subsector_info.R
+3965a50d1368a77554da5f2d194ce973 *R/get_table.R
+7200f57f5242417e1342eecf63fa1fc2 *R/get_table_info.R
+ba2ecbd878b4afd20278baa0196ec8a9 *README.md
+a85aa4f6148bb644241c1fb89ba9b020 *inst/CITATION
+13f4da7add158af519e141c235512af9 *man/NSO1212.Rd
+9c821f686eb71cbca06c6272b6940b77 *man/all_tables.Rd
+55484af147d9b5a596f43b92b32ca691 *man/get_sector_info.Rd
+56815d1559712bac06f474ee389bb05e *man/get_subsector_info.Rd
+4fa7fb3975942d6a8482c1aa4a6573d9 *man/get_table.Rd
+c73d0878140a02c0798e96d36ded0279 *man/get_table_info.Rd
